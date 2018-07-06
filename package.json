@@ -1,0 +1,16 @@
+{
+  "name": "xkcdify",
+  "version": "1.0.0",
+  "description": "A simple API for getting latest/random/specific xkcd comics.",
+  "main": "index.js",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ThatTonybo",
+  "license": "ISC"
+}
