@@ -3,7 +3,7 @@ A simple node.js wrapper for getting latest/random/specific xkcd comics. This is
 
 ## Install
 ```
-npm i xkcdify
+This has been removed off npmjs.com
 ```
 
 ## Usage
