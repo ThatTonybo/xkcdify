@@ -58,5 +58,6 @@ It also returns *all* raw data that the xkcd API gives, as well as some extras t
     image: 'https://imgs.xkcd.com/comics/light_hacks.png'
 }
 ```
-  
-Made by ThatTonybo. You can get help on my Discord server [here](https://discord.gg/nnpPGRy) if you need it.
+
+## Licence
+(c) 2018 - 2019 ThatTonybo. This project is not licenced under any official licences.
