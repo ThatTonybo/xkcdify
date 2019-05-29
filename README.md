@@ -1,5 +1,5 @@
 # xkcdify
-A simple API for getting latest/random/specific xkcd comics.
+A simple node.js wrapper for getting latest/random/specific xkcd comics. This is unmaintained, but works fine and can be used if wanted.
 
 ## Install
 ```
